@@ -1,0 +1,378 @@
+# Copyright (c) 2022 Donaldit. All Rights Reserved.
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Options Bot 0.6.0\n"
+"Report-Msgid-Bugs-To: https://github.com/dearvn/wp-options-bot/issues\n"
+"Last-Translator: donald.nguyen.it@gmail.com\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-11-29T13:04:17+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: optionsbot\n"
+
+#. Plugin Name of the plugin
+#: includes/Admin/Menu.php:36
+msgid "WP Options Bot"
+msgstr ""
+
+#. Description of the plugin
+msgid "A simple starter kit to work in WordPress plugin development using WordPress Rest API, WP-script and many more..."
+msgstr ""
+
+#. Author of the plugin
+msgid "Donaldit<donald.nguyen.it@gmail.com>"
+msgstr ""
+
+#: includes/Admin/Menu.php:39
+#: build/index.js:1
+msgid "Home"
+msgstr ""
+
+#: includes/Admin/Menu.php:40
+#: build/index.js:1
+msgid "Options"
+msgstr ""
+
+#: includes/Options/Manager.php:117
+msgid "Failed to create job."
+msgstr ""
+
+#: includes/Options/Manager.php:170
+msgid "Failed to update job."
+msgstr ""
+
+#: includes/Options/Manager.php:187
+msgid "Failed to update the job."
+msgstr ""
+
+#: includes/REST/OptionsController.php:56
+msgid "Post IDs which will be deleted."
+msgstr ""
+
+#: includes/REST/OptionsController.php:142
+msgid "Options not found. May be job has been deleted or you don't have access to that."
+msgstr ""
+
+#: includes/REST/OptionsController.php:164
+msgid "Cannot create existing email template."
+msgstr ""
+
+#: includes/REST/OptionsController.php:212
+msgid "Invalid Options ID."
+msgstr ""
+
+#: includes/REST/OptionsController.php:259
+msgid "No job ids found."
+msgstr ""
+
+#: includes/REST/OptionsController.php:265
+msgid "Options deleted successfully."
+msgstr ""
+
+#: includes/REST/OptionsController.php:275
+msgid "No job deleted. Options has already been deleted. Please try again."
+msgstr ""
+
+#: includes/REST/OptionsController.php:296
+msgid "ID of the job"
+msgstr ""
+
+#: includes/REST/OptionsController.php:302
+#: build/index.js:1
+msgid "Options title"
+msgstr ""
+
+#: includes/REST/OptionsController.php:312
+msgid "Options slug"
+msgstr ""
+
+#: includes/REST/OptionsController.php:321
+msgid "Options description"
+msgstr ""
+
+#: includes/REST/OptionsController.php:328
+#: build/index.js:1
+msgid "Options type"
+msgstr ""
+
+#: includes/REST/OptionsController.php:337
+#: includes/User/Hooks.php:50
+#: build/index.js:1
+msgid "Company"
+msgstr ""
+
+#: includes/REST/OptionsController.php:346
+msgid "Options status"
+msgstr ""
+
+#: includes/REST/OptionsController.php:355
+msgid "Created by user"
+msgstr ""
+
+#: includes/REST/OptionsController.php:363
+msgid "Updated by user"
+msgstr ""
+
+#: includes/REST/OptionsController.php:371
+msgid "Created at time"
+msgstr ""
+
+#: includes/REST/OptionsController.php:378
+msgid "Updated at time"
+msgstr ""
+
+#: includes/REST/OptionsController.php:385
+msgid "Deleted at time"
+msgstr ""
+
+#: includes/REST/OptionsController.php:507
+msgid "Options slug already exists."
+msgstr ""
+
+#: includes/User/Hooks.php:46
+msgid "User type"
+msgstr ""
+
+#: includes/User/Hooks.php:49
+msgid "-- Select user type --"
+msgstr ""
+
+#: includes/User/Hooks.php:51
+msgid "Candidate"
+msgstr ""
+
+#: options-bot.php:310
+msgid "Settings"
+msgstr ""
+
+#: options-bot.php:311
+msgid "Documentation"
+msgstr ""
+
+#: templates/app.php:2
+msgid "Loading"
+msgstr ""
+
+#: build/blocks/header/index.js:1
+msgid "Header title"
+msgstr ""
+
+#: build/blocks/header/index.js:1
+msgid "Header description"
+msgstr ""
+
+#: build/blocks/header/index.js:1
+msgid "Color Settings"
+msgstr ""
+
+#: build/index.js:1
+msgid "Dashboard"
+msgstr ""
+
+#: build/index.js:1
+msgid "Edit Dashboard component at "
+msgstr ""
+
+#: build/index.js:1
+msgid "View Options"
+msgstr ""
+
+#: build/index.js:1
+msgid "Sorry ! No data found."
+msgstr ""
+
+#: build/index.js:1
+msgid "Edit"
+msgstr ""
+
+#: build/index.js:1
+msgid "Are you sure?"
+msgstr ""
+
+#: build/index.js:1
+msgid "Are you sure to delete the job?"
+msgstr ""
+
+#: build/index.js:1
+msgid "Deleted!"
+msgstr ""
+
+#: build/index.js:1
+msgid "Delete"
+msgstr ""
+
+#: build/index.js:1
+msgid "Options status updated"
+msgstr ""
+
+#: build/index.js:1
+msgid "Options has been updated successfully."
+msgstr ""
+
+#: build/index.js:1
+msgid "Make Draft"
+msgstr ""
+
+#: build/index.js:1
+msgid "Make Publish"
+msgstr ""
+
+#: build/index.js:1
+msgid "Select Action"
+msgstr ""
+
+#: build/index.js:1
+msgid "Applying…"
+msgstr ""
+
+#: build/index.js:1
+msgid "Apply"
+msgstr ""
+
+#: build/index.js:1
+msgid "items"
+msgstr ""
+
+#: build/index.js:1
+msgid "item"
+msgstr ""
+
+#: build/index.js:1
+msgid "selected"
+msgstr ""
+
+#: build/index.js:1
+msgid "Please select an action."
+msgstr ""
+
+#: build/index.js:1
+msgid "-- Select --"
+msgstr ""
+
+#: build/index.js:1
+msgid "Please select job type."
+msgstr ""
+
+#: build/index.js:1
+msgid "Please select a company."
+msgstr ""
+
+#: build/index.js:1
+msgid "Please give job description."
+msgstr ""
+
+#: build/index.js:1
+msgid "Please give a job title."
+msgstr ""
+
+#: build/index.js:1
+msgid "Cancel"
+msgstr ""
+
+#: build/index.js:1
+msgid "Saving…"
+msgstr ""
+
+#: build/index.js:1
+msgid "Save"
+msgstr ""
+
+#: build/index.js:1
+msgid "Error"
+msgstr ""
+
+#: build/index.js:1
+msgid "Options saved"
+msgstr ""
+
+#: build/index.js:1
+msgid "Options has been saved successfully."
+msgstr ""
+
+#: build/index.js:1
+msgid "Minute"
+msgstr ""
+
+#: build/index.js:1
+msgid "Hour"
+msgstr ""
+
+#: build/index.js:1
+msgid "Day"
+msgstr ""
+
+#: build/index.js:1
+msgid "General Information"
+msgstr ""
+
+#: build/index.js:1
+msgid "Options Description"
+msgstr ""
+
+#: build/index.js:1
+msgid "Company Information"
+msgstr ""
+
+#: build/index.js:1
+msgid "Quick Jump"
+msgstr ""
+
+#: build/index.js:1
+msgid "Enter Options title, eg: Software Engineer"
+msgstr ""
+
+#: build/index.js:1
+msgid "Options details"
+msgstr ""
+
+#: build/index.js:1
+msgid "Enter Options description and necessary requirements."
+msgstr ""
+
+#: build/index.js:1
+msgid "Company Name"
+msgstr ""
+
+#: build/index.js:1
+msgid "New"
+msgstr ""
+
+#: build/index.js:1
+msgid "Search Options…"
+msgstr ""
+
+#: build/index.js:1
+msgid "Options"
+msgstr ""
+
+#: build/index.js:1
+msgid "Status"
+msgstr ""
+
+#: build/index.js:1
+msgid "Action"
+msgstr ""
+
+#: build/index.js:1
+msgid "Sorry !! No options found…"
+msgstr ""
+
+#: build/index.js:1
+msgid "Back to options"
+msgstr ""
+
+#: build/index.js:1
+msgid "Create New Options"
+msgstr ""
+
+#: build/index.js:1
+msgid "Edit Options"
+msgstr ""
+
+#: build/blocks/header/block.json
+msgctxt "block title"
+msgid "ReactKit Header"
+msgstr ""
